@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Instagram extractor",
-  "version": "0.1.5",
+  "version": "0.1.16",
   "description": "",
   "icons": {
     "16": "images/icon-16.png",
