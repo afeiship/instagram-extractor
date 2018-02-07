@@ -15,12 +15,12 @@ function getVideoElement(inOvgElement){
 //   );
 // });
 
-$(document).on('mouseover','._8n9ix',function(){
+$(document).on('mouseover','._si7dy',function(){
     var el = getImgElement(this);
     console.log('IMG:->',el.src);
 });
 
-$(document).on('mouseover','._usfov',function(){
+$(document).on('mouseover','._7thjo',function(){
     var el = getVideoElement(this);
     console.log('VIDEO:->',el.src);
 });
